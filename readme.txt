@@ -1,0 +1,4 @@
+Official speedrun timer for Jubilee.
+Free for all to enjoy. Modify to your hearts content. Be aware that any modifications may not be used in the official PC leaderboards on speedrun.com without approval of CursedToast.
+
+I ask that if you use this to create any other game autosplitters, please link me.

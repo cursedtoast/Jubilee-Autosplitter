@@ -19,7 +19,7 @@ state("Jubilee")
 startup
 {
 	settings.Add("endingOnly", false, "Split Only Ending");
-    settings.SetToolTip("endingOnly", "Split only on ending the game. Useful for casual runs and routing.");
+	settings.SetToolTip("endingOnly", "Split only on ending the game. Useful for casual runs and routing.");
 }
 
 split
